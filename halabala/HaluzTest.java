@@ -18,7 +18,3 @@ mocny_test
 test_exception.ext
 mocny_test_exception.ext
 mocny_test.ext
-
-pxt.test.ext
-pxt.test
-test.ext
