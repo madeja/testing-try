@@ -5,3 +5,6 @@ testingString
 
 test#123455
 Test$haluz
+
+AllMethodTests
+testsAllMethods
